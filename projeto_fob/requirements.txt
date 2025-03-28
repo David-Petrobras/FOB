@@ -1,0 +1,9 @@
+streamlit-aggrid
+streamlit-option-menu
+openpyxl
+Pillow
+msoffcrypto-tool
+numpy
+pandas
+plotly
+streamlit
